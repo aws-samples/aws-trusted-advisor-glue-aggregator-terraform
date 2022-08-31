@@ -1,7 +1,7 @@
 # aws-trusted-advisor-glue-aggregator
 
 Code to deploy a solution to:
-- periodically aggregate the Trusted Advisor checks results from different accounts to a centralised account, using AWS Lambda, AWS IAM, Amazon S3 and Amazon SQS 
+- periodically aggregate the Trusted Advisor results from different accounts to a centralised account, using AWS Lambda, AWS IAM, Amazon S3 and Amazon SQS 
 - run analysis or report SQL queries on the aggregated data, using Amazon Athena, AWS Glue, Amazon S3
 
  ## Table of Contents
